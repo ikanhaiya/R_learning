@@ -39,3 +39,5 @@ l <- matrix(LETTERS[1:6], nrow=4, ncol=3)
 l
 
 cbind(x,l)
+
+

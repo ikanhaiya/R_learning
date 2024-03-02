@@ -273,6 +273,8 @@ authors <- data.frame(
     nationality = c("US", "Australia", "US", "UK", "Australia"),
     deceased = c("yes", rep("no", 4)))
 
+authors
+
 books <- data.frame(
     name = I(c("Tukey", "Venables", "Tierney",
                "Ripley", "Ripley", "McNeil", "R Core")),
